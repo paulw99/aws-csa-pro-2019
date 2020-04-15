@@ -119,7 +119,7 @@
                           "         --resource WebServer ",
                           "         --configsets wordpress_install ",
                           "         --region ", { "Ref" : "AWS::Region" }, "\n"
-                ]]},          
+                ]]},
                 "mode"  : "000400",
                 "owner" : "root",
                 "group" : "root"
